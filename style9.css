@@ -73,15 +73,16 @@ footer{
 
   .step-box{
     width: 90%;
+    align-items:center;
+    margin:0 auto;
   }
 
   .step-box:first-child{
-    margin-top: 50px;
     margin-bottom: 20px;
   }
 
   .step-box:last-child{
-    margin-bottom: 50px;
     margin-top: 20px;
+  margin-right:auto;
   }
   }
